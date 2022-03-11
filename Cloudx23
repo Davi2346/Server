@@ -1,0 +1,59 @@
+{
+    "access_token": "ya29.A0ARrdaM8MjhHJxbW81cE6HXp23bvPsJhc-PowsV2qe5UBDS62MKJs6KKehmFOSwnXlMd1UPyRJ08TDEufOoSbFNb0GOxxDLV4HTPM25N3qj8XAIyy-KXqDcc0fcmAPIT3VENq3ZvvIONU_MUQvsyMc2fkuLdi",
+    "account_list": [
+        {
+            "username": "david",
+            "password": "extended2",
+            "pic": "",
+            "auth": "8gg0l7762pudcypb82r3tquodko1od578cjz66g6awevub88ec"
+        },
+        {
+            "username": "",
+            "password": "",
+            "pic": "",
+            "auth": "9z9uxwc8oecmkjz0fs4a8o9bv81d3zxbgfrnhw3e7m6gvirt68"
+        }
+    ],
+    "adult": "false",
+    "arcio": "dev",
+    "auth": "false",
+    "build_interval": 360,
+    "build_type": "hybrid",
+    "category_list": [
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1d6tiLYnqobls3YltFwQG_P-ZvfOaGvB8",
+            "language": "pt",
+            "name": "Filmes",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "",
+            "language": "pt",
+            "name": "",
+            "type": "Movies"
+        }
+    ],
+    "client_id": "947486860719-h65uliqfq35tsf9bnl5kjho4lgvjf7hi.apps.googleusercontent.com",
+    "client_secret": "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",
+    "cloudflare": "",
+    "fetch_assets": "false",
+    "refresh_token": "1//0hAF0CQz_4UmyCgYIARAAGBESNwF-L9IrXM7EHyV-8pdt2ZturYygDXoTif1wxD1ic2I3YdkR554nzpVb5oSIDEQKK_q7B7NiLgY",
+    "remove_duplicates": "false",
+    "remove_no_poster": "false",
+    "secret_key": "extended2",
+    "tmdb_api_key": "9279636b2ff53995440021538b10a20c",
+    "token_expiry": "",
+    "prefer_mkv": "false",
+    "prefer_mp4": "true",
+    "transcoded": "true",
+    "service_accounts": [],
+    "signup": "false",
+    "ui_config": {
+        "custom_button": {},
+        "title": "Cloudx"
+    }
+}
